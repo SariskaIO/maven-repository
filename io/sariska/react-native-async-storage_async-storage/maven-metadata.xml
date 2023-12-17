@@ -3,12 +3,13 @@
   <groupId>io.sariska</groupId>
   <artifactId>react-native-async-storage_async-storage</artifactId>
   <versioning>
-    <latest>1.15.4-sariska-15650901</latest>
-    <release>1.15.4-sariska-15650901</release>
+    <latest>1.15.4-sariska-15653604</latest>
+    <release>1.15.4-sariska-15653604</release>
     <versions>
       <version>1.15.4-sariska-15650859</version>
       <version>1.15.4-sariska-15650901</version>
+      <version>1.15.4-sariska-15653604</version>
     </versions>
-    <lastUpdated>20231217094330</lastUpdated>
+    <lastUpdated>20231217171403</lastUpdated>
   </versioning>
 </metadata>
