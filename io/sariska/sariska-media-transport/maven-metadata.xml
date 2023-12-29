@@ -3,12 +3,13 @@
   <groupId>io.sariska</groupId>
   <artifactId>sariska-media-transport</artifactId>
   <versioning>
-    <latest>5.4.9</latest>
-    <release>5.4.9</release>
+    <latest>5.4.10-exp</latest>
+    <release>5.4.10-exp</release>
     <versions>
       <version>5.4.8</version>
       <version>5.4.9</version>
+      <version>5.4.10-exp</version>
     </versions>
-    <lastUpdated>20231218080641</lastUpdated>
+    <lastUpdated>20231229092350</lastUpdated>
   </versioning>
 </metadata>
