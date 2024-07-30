@@ -16,27 +16,27 @@
     <dependency>
       <groupId>io.sariska</groupId>
       <artifactId>react-native-async-storage_async-storage</artifactId>
-      <version>1.15.4-sariska-17597615</version>
+      <version>1.15.4-sariska-17605587</version>
     </dependency>
     <dependency>
       <groupId>io.sariska</groupId>
       <artifactId>react-native-background-timer</artifactId>
-      <version>2.4.1-sariska-17597615</version>
+      <version>2.4.1-sariska-17605587</version>
     </dependency>
     <dependency>
       <groupId>io.sariska</groupId>
       <artifactId>react-native-webrtc</artifactId>
-      <version>1.94.2-sariska-17597615</version>
+      <version>1.94.2-sariska-17605587</version>
     </dependency>
     <dependency>
       <groupId>io.sariska</groupId>
       <artifactId>react-native-community_netinfo</artifactId>
-      <version>5.9.10-sariska-17597615</version>
+      <version>5.9.10-sariska-17605587</version>
     </dependency>
     <dependency>
       <groupId>io.sariska</groupId>
       <artifactId>react-native-incall-manager</artifactId>
-      <version>4.1.0-sariska-17597615</version>
+      <version>4.1.0-sariska-17605587</version>
     </dependency>
     <dependency>
       <groupId>io.sariska</groupId>
