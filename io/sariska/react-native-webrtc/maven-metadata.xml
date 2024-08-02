@@ -3,11 +3,12 @@
   <groupId>io.sariska</groupId>
   <artifactId>react-native-webrtc</artifactId>
   <versioning>
-    <latest>1.94.2-sariska-17628767</latest>
-    <release>1.94.2-sariska-17628767</release>
+    <latest>1.94.2-sariska-17628814</latest>
+    <release>1.94.2-sariska-17628814</release>
     <versions>
       <version>1.94.2-sariska-17628767</version>
+      <version>1.94.2-sariska-17628814</version>
     </versions>
-    <lastUpdated>20240802074758</lastUpdated>
+    <lastUpdated>20240802075548</lastUpdated>
   </versioning>
 </metadata>
