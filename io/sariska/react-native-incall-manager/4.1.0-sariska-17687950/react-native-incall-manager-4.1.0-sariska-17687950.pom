@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.sariska</groupId>
+  <artifactId>react-native-incall-manager</artifactId>
+  <version>4.1.0-sariska-17687950</version>
+  <packaging>aar</packaging>
+  <name>react-native-incall-manager</name>
+  <description>Handling media-routes/sensors/events during a audio/video chat on React Native</description>
+  <url>https://github.com/react-native-webrtc/react-native-incall-manager#readme</url>
+  <licenses>
+    <license>
+      <name>ISC</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native</artifactId>
+      <version>0.64</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.media</groupId>
+      <artifactId>media</artifactId>
+      <version>1.4.3</version>
+    </dependency>
+  </dependencies>
+</project>
